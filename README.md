@@ -1,4 +1,6 @@
 <img width="1536" height="1024" alt="flstudio" src="https://github.com/user-attachments/assets/b8775c76-fb11-4687-a808-4b510d49ff17" />
+
+
 # FL 25.2.5
 
 **FL 25.2.5** is a repackaged version of the popular digital audio workstation (DAW) by Image-Line. It includes all core features for music production, beat making, sound design, and mixing.
